@@ -1,6 +1,6 @@
 {
   "name": "kuara-forge",
-  "version": "0.10.1-dev",
+  "version": "0.10.2-dev",
   "description": "JavaScript implementations of network transports, cryptography, ciphers, PKI, message digests, and various utilities.",
   "homepage": "https://github.com/digitalbazaar/forge",
   "author": {
